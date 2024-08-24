@@ -1,7 +1,7 @@
 body {
     font-family: 微軟正黑體, sans-serif;
     margin: 20px;
-    background-image: url('background-image.jpg'); /* 添加背景圖片 */
+    background-image: url('background-image.jpg1'); /* 添加背景圖片 */
     background-size: cover; /* 將背景圖片調整為滿版 */
     background-position: center; /* 將背景圖片置中 */
 }
